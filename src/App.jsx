@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./app.css";
+import "./App.css";
 const images = [
   "https://dwpstorage2025.blob.core.windows.net/images/macaw.jpg",
   "https://dwpstorage2025.blob.core.windows.net/images/moon.jpg",
